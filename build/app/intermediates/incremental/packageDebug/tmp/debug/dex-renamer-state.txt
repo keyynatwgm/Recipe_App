@@ -1,0 +1,4 @@
+#Wed Dec 20 21:34:04 WIB 2023
+base.0=E\:\\semester 5\\PM\\uas\\resep app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
