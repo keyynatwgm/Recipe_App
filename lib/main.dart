@@ -129,7 +129,7 @@ class MyHomePage extends StatelessWidget {
                             style: ElevatedButton.styleFrom(
                               minimumSize: Size(150, 45),
                               backgroundColor:
-                                  Color.fromARGB(255, 254, 226, 166),
+                              Color.fromARGB(255, 255, 187, 92),
                             ),
                             child: Text(
                               'Get started',
